@@ -1,0 +1,5 @@
+transaction_id,transaction_description,transaction_amount,balance,transaction_type
+1,Supermarket Purchase,100,2000,withdrawal
+2,Salary Deposit,2000,4000,deposit
+3,Gas Bill Payment,150,3850,withdrawal
+4,Movie Ticket,50,3800,withdrawal
